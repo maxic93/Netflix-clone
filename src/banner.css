@@ -1,0 +1,35 @@
+.banner {
+    height: 600px;
+    width: 100%;
+   
+}
+
+.header_content {
+    position: absolute;
+    color: #fff;
+    top: 280px;
+    margin-left: 30px;
+}
+
+.headerTitle {
+    font-size: 3em;
+}
+
+.headerButton button {
+    padding: 3px;
+    margin: 7px;
+    background: #444;
+    color: #fff;
+    width: 75px;
+    border: none;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.headerButton button:hover {
+    background: #000;
+}
+
+.headerDescription {
+    width: 400px;  
+}

@@ -1,0 +1,28 @@
+.nav {
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    transition: .4s;
+    
+}
+
+.nav_scroll {
+    background: #000;
+}
+
+.img_nav {
+    width: 90px;
+    object-fit: contain;
+    margin-left: 10px;
+}
+
+.user_nav {
+    height: 40px;
+    object-fit: contain;
+    margin-right: 10px;
+    
+}
